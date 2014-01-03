@@ -10,11 +10,11 @@ Clone the repo. Enter the folder.
 
 Execute 
 
-cordova build android
+    cordova build android
 
 and then
 
-cordova run android
+    cordova run android
 
 to run the app on your Android device. 
 
